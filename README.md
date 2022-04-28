@@ -1,6 +1,6 @@
-#Website details
+#Website detas
 
-New content has been added
+New content has
 
 #content set 2
-This is added for testing
+This is added
